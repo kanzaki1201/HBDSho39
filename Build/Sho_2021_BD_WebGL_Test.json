@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Sho_2021_BD",
+"productVersion": "0.1",
+"dataUrl": "Sho_2021_BD_WebGL_Test.data.unityweb",
+"wasmCodeUrl": "Sho_2021_BD_WebGL_Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sho_2021_BD_WebGL_Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
